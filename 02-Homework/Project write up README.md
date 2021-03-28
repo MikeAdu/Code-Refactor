@@ -7,6 +7,6 @@ The goal was to make the Horiseon website more accessible. This was done by addi
 
 
 
-![Image description](homework01/02-Homework/Develop/assets/images/01-html-css-git-homework-demo.png)
+![Image description](01-html-css-git-homework-demo.png)
 
 
